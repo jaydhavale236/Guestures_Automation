@@ -18,8 +18,7 @@ About It is a Hill Climb Racing Game Controller. The game runs as we move our ha
 
   <!-- <img alt="Github issues" src="https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/5a29548e-88fc-4d79-9f9b-839ae6acca0f" /> -->
   
-
-  <!-- <img alt="Github forks" src="https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/5a29548e-88fc-4d79-9f9b-839ae6acca0f" /> -->
+  <!-- <img alt="Github forks" src="https://github.com/jaydhavale236/Guestures_Automation/forks" /> -->
 
   <!-- <img alt="Github stars" src="https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/5a29548e-88fc-4d79-9f9b-839ae6acca0f" /> -->
 </p>
@@ -34,7 +33,7 @@ About It is a Hill Climb Racing Game Controller. The game runs as we move our ha
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-Made-By">Made By</a> &#xa0; | &#xa0;
-  <a href="https://github.com/UtkarshPrajapati" target="_blank">Author</a>
+  <a href="https://github.com/jaydhavale236" target="_blank">Author</a>
 </p>
 
 <br>
@@ -79,7 +78,7 @@ You should also install Hill Climb Racing by going to <a href="https://www.micro
 
 ```bash
 # Clone this project
-$ git clone https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures.git
+$ git clone https://github.com/jaydhavale236/Guestures_Automation.git
 
 # Access
 $ cd Game-Controller-Using-Hand-Gestures
@@ -94,7 +93,7 @@ $ jupyter nbconvert --to notebook --execute "Game Controller.ipynb"
 
 ## :memo: Made By ##
 
-Made with :heart: by <a href="https://github.com/UtkarshPrajapati" target="_blank">Utkarsh Prajapati</a>
+Made with :heart: by <a href="https://github.com/jaydhavale236" target="_blank">Jaydip Dhavale</a>
 
 &#xa0;
 
