@@ -20,12 +20,12 @@ About It is a Hill Climb Racing Game Controller. The game runs as we move our ha
 
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="BREAK.png" /> -->
+  <!-- <img alt="Github issues" src="https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/5a29548e-88fc-4d79-9f9b-839ae6acca0f" /> -->
   
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/5a29548e-88fc-4d79-9f9b-839ae6acca0f" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/5a29548e-88fc-4d79-9f9b-839ae6acca0f" /> -->
 </p>
 
 
