@@ -1,5 +1,5 @@
 # Guestures_Automation
-About It is a Hill Climb Racing Game Controller. The game runs as we move our hand in front of the Primary Camera. .
+About It is a Hill Climb Racing Game Controller. The game runs as we move our hand in front of the Primary Camera.
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Hill Climb Racing Game Controller" />
   &#xa0;
@@ -26,7 +26,8 @@ About It is a Hill Climb Racing Game Controller. The game runs as we move our ha
 
 ## :dart: About ##
 
-I have made a Hill Climb Racing Game Controller. The game runs as we move our hand in front of the Primary Camera. It uses Machine Learning to infer 21 3-Dimensional Landmarks of our hand using Mediapipe's State-of-the-art techniques.
+I have made a Hill Climb Racing Game Controller. The game runs as we move our hand in front of the Primary Camera. The code behind this project uses OpenCV for real-time hand tracking and CVZone for gesture recognition. With the help of Pynput, I can simulate keyboard inputs to steer the vehicle left or right depending on my hand gestures.
+
 
 ## :dart: How To Use ##
 
