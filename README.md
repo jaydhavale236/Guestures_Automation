@@ -17,7 +17,6 @@ About It is a Hill Climb Racing Game Controller. The game runs as we move our ha
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-Made-By">Made By</a> &#xa0; | &#xa0;
   <a href="https://github.com/jaydhavale236" target="_blank">Author</a>
 </p>
@@ -61,19 +60,6 @@ The following tools were used in this project:
 Before starting, you need to have [Git](https://git-scm.com) & basic Deep Learning libraries installed.
 You should also install Hill Climb Racing by going to <a href="https://www.microsoft.com/en-us/p/hill-climb-racing/9wzdncrdcwk8?activetab=pivot:overviewtab" target="_blank">This Link</a>
 
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/jaydhavale236/Guestures_Automation.git
-
-# Access
-$ cd Game-Controller-Using-Hand-Gestures
-
-# Install dependencies
-$ pip install -r requirements.txt
-
-```
 
 ## :memo: Made By ##
 
