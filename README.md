@@ -50,8 +50,7 @@ I have made a Hill Climb Racing Game Controller. The game runs as we move our ha
 ## :dart: How To Use ##
 
 ### Basic Interface of Window:-
-![Basic Interface of Window](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/07cf1f7f5c7cf9705b6a3bda8c47d21e1fbd2c65/media/Basic%20Interface.png)
-
+![Basic Interface of Window](https://github.com/jaydhavale236/Guestures_Automation/blob/c9ac24256258b69273dfbbb687f66c037b78f787/GAS.png).
 
 ### Playing the Game:-
 (https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/5a29548e-88fc-4d79-9f9b-839ae6acca0f)
