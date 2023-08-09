@@ -53,7 +53,7 @@ I have made a Hill Climb Racing Game Controller. The game runs as we move our ha
 ![Basic Interface of Window](https://github.com/jaydhavale236/Guestures_Automation/blob/c9ac24256258b69273dfbbb687f66c037b78f787/GAS.png).
 
 ### Playing the Game:-
-https://github.com/jaydhavale236/Guestures_Automation/blob/75caedd4f044990e215e614680e32f2fefcfc342/BREAK.png
+(https://github.com/jaydhavale236/Guestures_Automation/blob/75caedd4f044990e215e614680e32f2fefcfc342/BREAK.png)
 
 
 ## :sparkles: Features ##
